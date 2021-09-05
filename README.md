@@ -1,7 +1,7 @@
 # Data Cleaning with Python
 
 ## Applying Python
-I've learned Python years ago through "Automate the Boring Stuff". I remembered I had so much fun completing the challenges but a year of not applying Python has made me forget most of what I learned. resolved to do explore how I can use it and do quick projects in Python in my free time and apply as much of it as I can when opportunity arrives at work. This is one of the first exercises I did in Python which is about data cleaning. 
+I've learned Python years ago through "Automate the Boring Stuff". I remembered I had so much fun completing the challenges but a year of not applying Python has made me forget most of what I learned. resolved to do quick projects in Python in my free time and apply as much of it as I can at work when opportunity arrives.. This is one of the first exercises I did in Python which is about data cleaning. 
 
 
 This project originates from the [realpython](https://realpython.com/python-data-cleaning-numpy-pandas/) website. It's an exercise where you learn the ff:
